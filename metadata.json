@@ -1,0 +1,6 @@
+{
+  "name": "Sector Compass",
+  "description": "Temporal Graph Sector Rotation Network and gamified simulation platform for NSE sectoral index tilting with SEBI-auditable attention explanations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
